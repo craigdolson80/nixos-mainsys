@@ -1,0 +1,60 @@
+{config, pkgs, ...}:
+{
+  home.packages = with pkgs; [
+     appimage-run
+     arandr
+     betterlockscreen
+     bitwarden
+     brave
+     btop
+     cowsay
+     discord
+     feh
+     firefox
+     flameshot
+     font-manager 
+     galculator
+     geany
+     gimp-with-plugins
+     glances
+     google-chrome
+     hplipWithPlugin
+     htop
+     keepassxc
+     imagemagick
+     libreoffice
+     lxappearance
+     meld
+     networkmanagerapplet
+     nitrogen
+     oh-my-zsh
+     pcmanfm
+     picom
+     polkit_gnome
+     polybar
+     ranger
+     rofi
+     signal-desktop
+     telegram-desktop
+     tor
+     tor-browser-bundle-bin
+     torsocks
+     udiskie
+     udisks
+     variety
+     veracrypt
+     viewnior
+     volumeicon
+     yubikey-agent
+     yubikey-manager
+     yubioath-flutter
+
+ #Themes
+     dracula-theme
+     dracula-icon-theme
+     catppuccin-gtk 
+     catppuccin-kde
+     catppuccin-cursors
+     catppuccin-papirus-folders 
+   ];
+}

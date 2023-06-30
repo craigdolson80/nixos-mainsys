@@ -1,0 +1,13 @@
+            ["#282a36", "#282a36"], #color 0 Background
+			["#44475a", "#44475a"], #color 1 Current Line
+			["#44475a", "#44475a"], #color 2 Selection
+			["#f8f8f2", "#f8f8f2"], #color 3 Foreground
+			["#6272a4", "#6272a4"], #color 4 Comment
+			["#8be9fd", "#8be9fd"], #color 5 Cyan
+			["#50fa7b", "#50fa7b"], #color 6 Green
+			["#ffb86c", "#ffb86c"], #color 7 Orange
+			["#ff79c6", "#ff79c6"], #color 8 Pink
+			["#bd93f9", "#bd93f9"],   #color 9 Purple
+			["#ff5555", "#ff5555"], #color 10 Red
+			["#f1fa8c", "#f1fa8c"], #color 11 Yellow
+			["#FFFFFF", "#FFFFFF"], #color 12 White
