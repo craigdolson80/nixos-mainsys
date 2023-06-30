@@ -7,7 +7,7 @@
     syntaxHighlighting.enable = true;
     oh-my-zsh = {
       enable = true;
-      plugins = [ "docker-compose" "docker" "ssh-agent" "git" ];
+      plugins = [ "ssh-agent" "git" ];
       theme = "michelebologna";
     };
     initExtra = ''
