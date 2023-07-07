@@ -44,6 +44,7 @@
      variety
      veracrypt
      viewnior
+     vlc
      volumeicon
      yubikey-agent
      yubikey-manager
