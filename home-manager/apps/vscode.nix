@@ -15,5 +15,6 @@
         "workbench.colorTheme" = "Dracula";
         "security.workspace.trust.untrustedFiles" = "open";
         "workbench.startupEditor" = "none";
+        "git.openRepositoryInParentFolders" = "always";
           };
 }
